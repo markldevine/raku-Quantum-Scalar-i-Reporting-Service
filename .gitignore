@@ -1,6 +1,7 @@
 # Caches
 .precomp/
 node_modules/
+*.swp
 
 # Backup files
 *~
