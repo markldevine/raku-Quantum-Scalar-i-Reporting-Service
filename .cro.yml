@@ -1,0 +1,15 @@
+---
+id: Quantum-Scalar-i-Reporting-Service
+links:  []
+cro: 1
+endpoints: 
+  - 
+    id: http
+    host-env: QUANTUM_SCALAR_I_REPORTING_SERVICE_HOST
+    name: HTTP
+    port-env: QUANTUM_SCALAR_I_REPORTING_SERVICE_PORT
+    protocol: http
+entrypoint: service.p6
+name: Quantum-Scalar-i-Reporting-Service
+env:  []
+...

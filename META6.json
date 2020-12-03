@@ -1,0 +1,29 @@
+{
+    "name":             "Quantum-Scalar-i-Reporting-Service",
+    "auth":             "github:markldevine",
+    "authors":          [
+        "Mark Devine <mark@markdevine.com>"
+    ],
+    "build-depends":    [],
+    "depends":          [
+        "Cro::HTTP"
+    ],
+    "description":      "Quantum Scalar i Reporting Service",
+    "license":          "Artistic-2.0",
+    "meta-version":     "0",
+    "raku":             null,
+    "resources":        [],
+    "perl":             "6.*",
+    "provides":         {
+        "Routes.rakumod": "lib/Routes.rakumod"
+    },
+    "source-url":       "https://github.com/markldevine/raku-Quantum-Scalar-i-Reporting-Service.git",
+    "support":          {
+        "source": "https://github.com/markldevine/raku-Quantum-Scalar-i-Reporting-Service.git"
+    },
+    "tags":             [
+        "Quantum"
+    ],
+    "test-depends":     [],
+    "version":          "0.0.1"
+}
